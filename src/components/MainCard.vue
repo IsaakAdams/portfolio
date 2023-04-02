@@ -50,10 +50,10 @@
 
                 <div class="button-container">
                     <div class="projects-button">
-                        <a href="">My Projects</a>
+                        <a href="https://github.com/IsaakAdams?tab=repositories">My Projects</a>
                     </div>
                     <div class="projects-button">
-                        <a href="">My Resume</a>
+                        <a href="/resume.pdf" download>My Resume</a>
                     </div>
                 </div>
             </div>
