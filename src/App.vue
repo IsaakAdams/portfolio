@@ -1,27 +1,12 @@
-<!-- HTML -->
 <template>
-  <MainCard />
-  <ProjectsCard />
+  <div id="app">
+    <router-view/>
+  </div>
 </template>
 
+<!-- <router-link to="/">Home</router-link> -->
 
-<!-- JavaScript -->
-<script setup>
-import MainCard from './components/MainCard.vue'
-import ProjectsCard from './components/ProjectsCard.vue'
-</script>
-
-
-<!-- Styling -->
 <style>
-  body {
-    margin: 0;
-    background-color: #d6edff;
-  }
-
-  #app {
-    font-family: Avenif, Helvetica, Arial, sans-serif;
-    text-align: center;
-    
-  }
+/* Montserrat Font */
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 </style>
