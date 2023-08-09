@@ -3,7 +3,6 @@
         <div><h1>Isaak Adams</h1></div>
         <div><a href="#skills-root">Skills</a></div>
         <div><a href="#gallery-root">Projects</a></div>
-        <div><a href="#">Portfolio</a></div>
     </div>
 </template>
 
