@@ -41,6 +41,25 @@
             <!-- Second Card End -->
 
             <!-- Third Card Start -->
+            <div class="ui card">
+                <div class="image">
+                    <img src="../assets/expense_tracker.png" alt="Image of Expense Tracker Application">
+                </div>
+                <div class="content">
+                    <p class="header">Expense Tracker</p>
+                    <div class="description">
+                        <p>Project uses React.js components to seperate sections of the application. Project also uses React context API.</p>
+                    </div>
+                </div>
+                <div class="extra content">
+                    <a target="_blank" href="https://isaak-adams-expense-tracker.netlify.app/">
+                        <button class="ui inverted brown button">Visit</button>
+                    </a>
+                </div>
+            </div>
+            <!-- Third Card End -->
+
+            <!-- Fourth Card Start -->
         </div>
     </div>
 </template>
